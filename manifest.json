@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "StorWallet",
-  "short_name": "StorWallet",
+  "name": "ChivesWallet",
+  "short_name": "ChivesWallet",
   "version": "0.1",
   "default_locale": "en",
   "description": "Web Wallet for Stor Blockchain",
@@ -23,10 +23,10 @@
       "48": "images/icon-48.png",
       "128": "images/icon-128.png"
     },
-    "default_title": "storwallet",
+    "default_title": "chiveswallet",
     "default_popup": "popup.html"
   },
-  "author": "https://storwallet.com/",
+  "author": "https://chiveswallet.com/",
   "background": {
     "page": "background.html",
     "persistent": true
