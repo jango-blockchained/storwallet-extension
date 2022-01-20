@@ -4,7 +4,7 @@
   "short_name": "ChivesWallet",
   "version": "0.1",
   "default_locale": "en",
-  "description": "Web Wallet for Stor Blockchain",
+  "description": "Web Wallet for Chives Blockchain",
   "icons": {
     "16": "images/icon-16.png",
     "19": "images/icon-19.png",

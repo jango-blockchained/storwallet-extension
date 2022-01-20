@@ -1,6 +1,6 @@
 # ChivesWallet Browser Extension
 
-ChivesWallet is an open-source web wallet for Stor Blockchain. Install as browser extension to [Mozilla Firefox](https://addons.mozilla.org/firefox/addon/chiveswallet/) and to all [Chromium](https://chrome.google.com/webstore/detail/chiveswallet/ghmhighjdhkjlgeohbhnagoebpngafff) based browsers.
+ChivesWallet is an open-source web wallet for Chives Blockchain. Install as browser extension to [Mozilla Firefox](https://addons.mozilla.org/firefox/addon/chiveswallet/) and to all [Chromium](https://chrome.google.com/webstore/detail/chiveswallet/ghmhighjdhkjlgeohbhnagoebpngafff) based browsers.
 
 For more information, see our website at https://chiveswallet.com
 
